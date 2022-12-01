@@ -1,0 +1,33 @@
+.container{
+width: 100%;
+height: 100vh;
+background-color: azure;}
+.column{
+  display: flex;
+  flex-direction: row;
+}
+
+
+.box_one{
+  width: 100%;
+    height: 45px;
+    display: flex;
+    flex-direction: row;
+ background-color: black;  
+
+}
+.two{
+width: 100%;
+height: 400px;
+background-color: ;
+flex-direction: row;
+
+}
+
+
+
+
+
+
+  
+ 
